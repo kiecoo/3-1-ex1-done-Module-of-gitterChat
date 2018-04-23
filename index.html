@@ -1,3 +1,4 @@
+// already debug var data = getDataFromModule()
 <!doctype html>	
 	<html>
 	  <head>
@@ -9,7 +10,9 @@
 	  <body>
 	    <script>
 	   
-	   
+	var getDataFromModule = require('./index.js')   
+	var data = getDataFromModule()
+	
 	var bel = require('bel')
 	var csjs = require('csjs-inject')
 	  
@@ -126,28 +129,11 @@
 	    padding:.1px;
 	  }
 	`
-	function profile () {
-	   var data= getGithubData ()
-   
-	    function getGithubData () {
-		    var data1= [
-		    {
-			"repo": "nicco88/personal-portfolio",
-			"url": "https://api.github.com/repos/nicco88/personal-portfolio",
-			"username": "ninabreznik",
-			"time": "2018-04-01T17:50:29Z"
-		    },
-		    {
-			"repo": "freeCodeCamp/devdocs",
-			"url": "https://api.github.com/repos/freeCodeCamp/devdocs",
-			"username": "serapath",
-			"time": "2018-03-27T04:51:07Z"
-		    }]
-		    return  data1
-	  }
-	  
+	function profile (data) {
+	 
+  
 	  var ninasProfile      = data[0]
-    var username          = ninasProfile.username
+          var username          = ninasProfile.username
 	  
 	  var name              = 'Nina'
 	  var cardText          = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru '
@@ -208,7 +194,7 @@
 	  return el
 	}
 	 
-	var x= profile()
+	var x= profile(data)
 	document.body.appendChild(x)
 	   
 	   
