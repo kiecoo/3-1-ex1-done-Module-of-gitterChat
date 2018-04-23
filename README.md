@@ -16,8 +16,8 @@
 - Version v11-1---with 1 layer  of module
 
 ### fail【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
-- (failed) Version v11-1---with 1 layer  of module
->  (html:Version v11-1,    js: get-github-activity-feed)
+- (failed) Version v12-1---with 1 layer  of module
+>>>  (html:copy Version v11-1,    js: get-github-activity-feed)
 
 ### 【v100-v109】:`gitterChat` + `flipCard`+`github-data`
 - (not yet)Version v101---json of `github-data` inputted (`get-github-data.js` added)
