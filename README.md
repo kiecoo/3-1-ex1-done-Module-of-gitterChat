@@ -21,6 +21,10 @@
 - Version v12-1-way2- ----with 1 layer  of module  (success)  [output1](https://i.imgur.com/mqrEPg6.png) [output2](https://i.imgur.com/sIIMMLl.png)
 >>> difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
 
-### 【v100-v109】:`gitterChat` + `flipCard`+`github-data`
+### 【v13】:`gitterChat` + `flipCard`+`github-data`
+- (failed) Version v13-1---with 1 layer  of module
+>>> html: 12-1-way2-success , js: `github-data`
+
+
 - (not yet)Version v101---json of `github-data` inputted (`get-github-data.js` added)
 - (not yet)Version v102---function of `github-data` inputted
