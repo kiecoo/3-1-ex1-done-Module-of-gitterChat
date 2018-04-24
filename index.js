@@ -72,3 +72,4 @@ function updateCache (url, data) {
     return 'https://cors-anywhere.herokuapp.com/' + url
   }
 }
+
