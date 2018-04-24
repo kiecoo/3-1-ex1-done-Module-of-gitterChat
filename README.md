@@ -18,7 +18,7 @@
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 - (failed) Version v12-1---with 1 layer  of module  [repo-link](https://github.com/kiecoo/de-for-testingOutput/tree/16b72984d4e69c61417d300affcdf46bb2da4d73)
 >>>  (html:copy Version v11-1,    js: get-github-activity-feed)
-- Version v12-2-- ----with 1 layer  of module  (success)  [repo-link](https://github.com/kiecoo/de-for-testingOutput) [output](https://i.imgur.com/lYyPP7t.png)
+- Version v12-1-way2- ----with 1 layer  of module  (success)  [repo-link](https://github.com/kiecoo/de-for-testingOutput) [output](https://i.imgur.com/lYyPP7t.png)
 >>> difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
 
 ### 【v100-v109】:`gitterChat` + `flipCard`+`github-data`
