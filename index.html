@@ -10,7 +10,8 @@
 	    <script>
 	   
 	var getDataFromModule = require('./index.js')   
-	var data = getDataFromModule()
+	//var data = getDataFromModule()
+         getDataFromModule(callback)
 	
 	var bel = require('bel')
 	var csjs = require('csjs-inject')
@@ -133,8 +134,8 @@
   
 	  var ninasProfile      = data[0]
           var username          = ninasProfile.name
+	  var name              = ninasProfile.name
 	  
-	  var name              = 'Nina'
 	  var cardText          = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru '
 	  var imageUrl          = 'https://nomadlist.com/assets/img/cities/phuket-thailand-500px.jpg'
 	  var city              = 'Berlin'
@@ -193,12 +194,18 @@
 	  return el
 	}
 	 
-	var x= profile(data)
-	document.body.appendChild(x)
-	   
+	//var x= profile(data)
+	//document.body.appendChild(x)
+	function callback (userprofiles) {
+        userprofiles.forEach(function (data) {
+	   document.body.appendChild(profile(data))
+	    })
+    }
+   
 	   
 	   
 	   
 	    </script>
 	  </body>
 	</html>
+
