@@ -42,3 +42,11 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 
 - (not yet)Version v101---json of `github-data` inputted (`get-github-data.js` added)
 - (not yet)Version v102---function of `github-data` inputted
+
+-----
+ps-- success-print-names
+(already written again in github)
+
+(failed)unknown why wrong-versionOld
+(success) 12-1-test2-editted name-wrong  [versionNew](https://github.com/kiecoo/de-for-testingOutput)& [output](https://i.imgur.com/mqrEPg6.png)
+
