@@ -28,9 +28,9 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 #### (1) way1:
-- (failed) Version v12-1---with 1 layer  of module  
+- (failed) Version v12-1---with 1 layer  of module  (print 1 person)
 >>>  (html:copy Version v11-1,    js: get-github-activity-feed)
-- Version v12-1-way2- ----with 1 layer  of module  (success)  [output1](https://i.imgur.com/mqrEPg6.png) [output2](https://i.imgur.com/sIIMMLl.png)
+- Version v12-1-way2- ----with 1 layer  of module  (success)  [output1](https://i.imgur.com/mqrEPg6.png) [output2](https://i.imgur.com/sIIMMLl.png)  (print 2 people)
 >>> -  difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
 >>>  - [comparison-sheet](https://github.com/kiecoo/module-gitterChat---ex2/commit/28bbff649d69620a97be2f4c281addc5360ab503#diff-eacf331f0ffc35d4b482f1d15a887d3b)  between v12-1&2 in github
 #### (2) way2:  CPS style:callback
