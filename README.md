@@ -2,6 +2,13 @@
 >- ex2 : after being combined inside flip-card module
 >- No. : 3-1-ex2:【success】
 
+## rule of name
+Version-`No. Of Topic`-`Module`-(`Style`)
+>ex.  Version v11-1-(way2)
+>* v11 = No. Of Topic
+>* -1 =  with 1 layer  of module
+>* way2 = CPS style-callback
+
 ##  contents
 >in branches
 
@@ -12,8 +19,12 @@
 - Version v3---with 3 layers of module
 
 ### 【v11】:`gitterChat` + `flipCard`(+json_usernames)
-- Version v11-0---with 0 module
-- Version v11-1---with 1 layer  of module
+#### way1:
+- Version v11-0------------with 0 module
+- Version v11-1------------with 1 layer  of module
+#### way2:  CPS style:callback
+- Version v11-0-(way2)-----with 0 layer  of module (of CPS style:callback)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/userprofiles)
+- Version v11-1-(way2)-----with 1 layer  of module (of CPS style:callback)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/de-try)
 
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 - (failed) Version v12-1---with 1 layer  of module  
