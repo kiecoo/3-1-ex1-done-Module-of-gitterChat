@@ -23,8 +23,8 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-0------------with 0 module
 - Version v11-1------------with 1 layer  of module
 #### (2) way2:  CPS style:callback
-- Version v11-0-(way2)-----with 0 layer  of module (CPS)***(success--not pasted yet)***  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
-- Version v11-1-(way2)-----with 1 layer  of module (CPS)***(success --not pasted yet)***  [repo---de-try](https://github.com/kiecoo/de-try)
+- Version v11-0-(way2)-----with 0 layer  of module (CPS)  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
+- Version v11-1-(way2)-----with 1 layer  of module (CPS)  [repo---de-try](https://github.com/kiecoo/de-try)
 
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 #### (1) way1:
