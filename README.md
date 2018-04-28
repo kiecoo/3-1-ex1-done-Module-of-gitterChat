@@ -19,10 +19,10 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v3---with 3 layers of module
 
 ### 【v11】:`gitterChat` + `flipCard`(+json_usernames)
-#### way1:
+#### (1) way1:
 - Version v11-0------------with 0 module
 - Version v11-1------------with 1 layer  of module
-#### way2:  CPS style:callback
+#### (2) way2:  CPS style:callback
 - Version v11-0-(way2)-----with 0 layer  of module (of CPS style:callback)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/userprofiles)
 - Version v11-1-(way2)-----with 1 layer  of module (of CPS style:callback)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/de-try)
 
