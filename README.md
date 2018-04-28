@@ -34,7 +34,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 >>> -  difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
 >>>  - [comparison-sheet](https://github.com/kiecoo/module-gitterChat---ex2/commit/28bbff649d69620a97be2f4c281addc5360ab503#diff-eacf331f0ffc35d4b482f1d15a887d3b)  between v12-1&2 in github
 #### (2) way2:  CPS style:callback
-- Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success- but a littel bit weird (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)
+- Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success but username couldn't be inputted (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)
 
 ### 【v13】:`gitterChat` + `flipCard`+`github-data`
 - (failed) Version v13-1---with 1 layer  of module    [repo---de-for-testingOutput](https://github.com/kiecoo/de-for-testingOutput)
