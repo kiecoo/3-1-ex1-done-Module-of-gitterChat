@@ -27,10 +27,13 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-1-(way2)-----with 1 layer  of module (CPS)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/de-try)
 
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
+#### (1) way1:
 - (failed) Version v12-1---with 1 layer  of module  
 >>>  (html:copy Version v11-1,    js: get-github-activity-feed)
 - Version v12-1-way2- ----with 1 layer  of module  (success)  [output1](https://i.imgur.com/mqrEPg6.png) [output2](https://i.imgur.com/sIIMMLl.png)
 >>> difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
+#### (2) way2:  CPS style:callback
+- Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/de--v12-1-way3)
 
 ### 【v13】:`gitterChat` + `flipCard`+`github-data`
 - (failed) Version v13-1---with 1 layer  of module
