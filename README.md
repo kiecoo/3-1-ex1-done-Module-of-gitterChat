@@ -23,8 +23,8 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-0------------with 0 module
 - Version v11-1------------with 1 layer  of module
 #### (2) way2:  CPS style:callback
-- Version v11-0-(way2)-----with 0 layer  of module (CPS)***(success--not pasted yet)***  [repo](https://github.com/kiecoo/userprofiles)
-- Version v11-1-(way2)-----with 1 layer  of module (CPS)***(success --not pasted yet)***  [repo](https://github.com/kiecoo/de-try)
+- Version v11-0-(way2)-----with 0 layer  of module (CPS)***(success--not pasted yet)***  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
+- Version v11-1-(way2)-----with 1 layer  of module (CPS)***(success --not pasted yet)***  [repo---de-try](https://github.com/kiecoo/de-try)
 
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 #### (1) way1:
@@ -36,7 +36,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success- but a littel bit weird (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)
 
 ### 【v13】:`gitterChat` + `flipCard`+`github-data`
-- (failed) Version v13-1---with 1 layer  of module
+- (failed) Version v13-1---with 1 layer  of module    [repo---de-for-testingOutput](https://github.com/kiecoo/de-for-testingOutput)
 >>> html: 12-1-way2-success , js: `github-data`
 
 
