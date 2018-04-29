@@ -26,6 +26,10 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-0-(way2)-----with 0 layer  of module (CPS)-ok  [output](https://i.imgur.com/ILMrzJT.png)  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
 - Version v11-1-(way2)-----with 1 layer  of module (CPS)-ok  [output](https://i.imgur.com/ILMrzJT.png)  [repo---de-try](https://github.com/kiecoo/de-try)
 
+#### (3) way3:  CPS + foreach 
+- Version v11-0-(way3)---[output](https://i.imgur.com/RfqIDBk.png)  [finalCode in repo---de2](https://github.com/kiecoo/de2/tree/ce942f41b5b6e2fb94b9e1e970c4b66e772a6e17)
+> [how to print people instead 1-person by foreach](https://github.com/kiecoo/de2/commit/b93fcaca3536f4d22eb90b168f80ba3f64a8df6c#diff-eacf331f0ffc35d4b482f1d15a887d3b)
+
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
 #### (1) way1:
 - (failed) Version v12-1---with 1 layer  of module  (print 1 person)
