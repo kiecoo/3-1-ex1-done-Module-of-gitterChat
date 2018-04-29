@@ -21,7 +21,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 ### 【v11】:`gitterChat` + `flipCard`(+json_usernames)
 #### (1) way1:
 - Version v11-0------------with 0 module
-- Version v11-1------------with 1 layer  of module
+- Version v11-1------------with 1 layer  of module  ***failed, fail to debug ****
 #### (2) way2:  CPS style:callback
 - Version v11-0-(way2)-----with 0 layer  of module (CPS)-ok  [output](https://i.imgur.com/ILMrzJT.png)  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
 - Version v11-1-(way2)-----with 1 layer  of module (CPS)-ok  [output](https://i.imgur.com/ILMrzJT.png)  [repo---de-try](https://github.com/kiecoo/de-try)
