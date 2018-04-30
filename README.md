@@ -43,6 +43,9 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success but username couldn't be inputted (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)   [output](https://i.imgur.com/GU03dnu.png)
 
 #### (3) way3:  CPS + foreach 
+- Version v12-1-(way3)--------------(checked-success)   [output](https://i.imgur.com/yqy8eEq.png)
+>>> - html: `v12-1-(way2)`(whole) +  editted as `how to print people instead 1-person by foreach` of `v11-0-(way3)`
+>>> - js : all = `v12-1-(way2)`
 - Version v12-1-way2- ----with 1 layer  of module  (checked-success) (sometimes show  2 person  [output1](https://i.imgur.com/94a3HIL.png) , next moment when refreshing shows 3 people [output2](https://i.imgur.com/wi83AvE.png) ) [repo-de1](https://github.com/kiecoo/de1) 
 >>> -  difference from v12-1: (html:Version v11-1 + some of  get-github-activity-feed    js:same)
 >>>  - [comparison-sheet](https://github.com/kiecoo/module-gitterChat---ex2/commit/28bbff649d69620a97be2f4c281addc5360ab503#diff-eacf331f0ffc35d4b482f1d15a887d3b)  between v12-1&2 in github
