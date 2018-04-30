@@ -30,7 +30,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-1------------with 1 layer  of module  ***failed, fail to debug ****
 #### (2) way2:  CPS style:callback
 - Version v11-0-(way2)-----with 0 layer  of module (CPS)-ok  [output](https://i.imgur.com/ILMrzJT.png)  [repo----userprofiles](https://github.com/kiecoo/userprofiles)
-- Version v11-1-(way2)-----with 1 layer  of module (CPS)--checked-success  [output](https://i.imgur.com/ILMrzJT.png) 
+- Version v11-1-(way2)-----with 1 layer  of module (CPS)--done-ok(after cookie)  [output](https://i.imgur.com/ILMrzJT.png) 
 
 #### (3) way3:  CPS + foreach 
 - Version v11-0-(way3)---[output](https://i.imgur.com/RfqIDBk.png) & [finalCode in repo---de2](https://github.com/kiecoo/de2/tree/ce942f41b5b6e2fb94b9e1e970c4b66e772a6e17) `based on  v11-0-(way2)`
