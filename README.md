@@ -39,7 +39,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 #### (2) way2:  CPS        1 person
 - Version v12-1-(way2)--1 person (checked-success)  [output](https://i.imgur.com/NqD3Rg4.png)
 >>> - html: all =  `v11-1-(way2)` 
->>> - js : [js-----get-github-activity-feed](https://github.com/kiecoo/get-github-activity-feed/blob/master/index.js) (whole)+  `v11-1-(way2)` (some)
+>>> - js : [js-----get-github-activity-feed](https://github.com/kiecoo/get-github-activity-feed/blob/master/index.js) (whole)+  `v11-1-(way2)` (some)  [how](https://github.com/kiecoo/module-gitterChat---ex2/commit/bbc28050ff5373616fc4838e62728296ac50f47a) : nomal(js)->CPS(js)
 - Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success but username couldn't be inputted (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)   [output](https://i.imgur.com/GU03dnu.png)
 
 #### (3) way3:  CPS + foreach 
