@@ -1,5 +1,8 @@
 # Module-of-gitterChat-ex2
 
+notice:
+- everytime: clear cookie
+
  v12-1-(way2) &  v12-1-(way3)   & v11-1-(way2)  ---github has bug(sometimes could run,sometimes not)
 
 >- ex2 : after being combined inside flip-card module
@@ -46,7 +49,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v12-1-(way2)-----with 1 layer  of module (CPS)***(success but username couldn't be inputted (apple:success,windows:fail)-not pasted yet)***  [repo----de--v12-1-way3](https://github.com/kiecoo/de--v12-1-way3)   [output](https://i.imgur.com/GU03dnu.png)
 
 #### (3) way3:  CPS + foreach 
-- Version v12-1-(way3)--------------(checked-success)   [output](https://i.imgur.com/yqy8eEq.png)
+- Version v12-1-(way3)--------------(x:checked-success wihtout clear cookie)   [output](https://i.imgur.com/yqy8eEq.png)
 >>> - html: `v12-1-(way2)`(whole) +  editted as `how to print people instead 1-person by foreach` of `v11-0-(way3)`
 >>> - js : all = `v12-1-(way2)`
 - Version v12-1-way2- ----with 1 layer  of module  (checked-success) (sometimes show  2 person  [output1](https://i.imgur.com/94a3HIL.png) , next moment when refreshing shows 3 people [output2](https://i.imgur.com/wi83AvE.png) ) [repo-de1](https://github.com/kiecoo/de1) 
