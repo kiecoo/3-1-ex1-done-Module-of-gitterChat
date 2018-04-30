@@ -1,6 +1,6 @@
 # Module-of-gitterChat-ex2
 
- v12-1-(way2) &  v12-1-(way3)  ---github has bug(sometimes could run,sometimes not)
+ v12-1-(way2) &  v12-1-(way3)   & v11-1-(way2)  ---github has bug(sometimes could run,sometimes not)
 
 >- ex2 : after being combined inside flip-card module
 >- No. : 3-1-ex2:【success】
