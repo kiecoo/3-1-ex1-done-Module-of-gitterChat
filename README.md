@@ -37,7 +37,7 @@ Version-`No. Of Topic`-`Module`-(`Style`)
 - Version v11-0-(way3)---[output](https://i.imgur.com/RfqIDBk.png) & [finalCode in repo---de2](https://github.com/kiecoo/de2/tree/ce942f41b5b6e2fb94b9e1e970c4b66e772a6e17) `based on  v11-0-(way2)`
 > [how to print people instead 1-person by foreach](https://github.com/kiecoo/de2/commit/b93fcaca3536f4d22eb90b168f80ba3f64a8df6c#diff-eacf331f0ffc35d4b482f1d15a887d3b)--(success in apple,fail in windows)
 
-- Version-v11-1-(way3)-----[output](https://i.imgur.com/jOnlcE5.png)
+- Version-v11-1-(way3)-----(after cookie:apple-success-[output-apple](https://i.imgur.com/jOnlcE5.png) ,windows-success but with uncaught DOM errors [output-windows](https://i.imgur.com/UI45PQn.png))  
 >>> - html: `v11-1-(way2)`(whole) +  editted as `how to print people instead 1-person by foreach` of `v11-0-(way3)`
 >>> - js : all = `v11-1-(way2)`
 ### 【v12】:`gitterChat` + `flipCard`(+module from get-github-activity-feed)
