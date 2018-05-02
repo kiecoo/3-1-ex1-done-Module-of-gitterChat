@@ -2,6 +2,7 @@
 
 notice:
 - everytime: clear cookie
+- `var` need in order, `function`doesn't matter
 
  v12-1-(way2) &  v12-1-(way3)   & v11-1-(way2)  ---github has bug(sometimes could run,sometimes not)
 
